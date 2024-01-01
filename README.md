@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @DillonEdwards1
 - 👀 I’m interested in ... Full-Stack Programing
 - 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... dillonedwards53@gmail.com
 
 <!---
 DillonEdwards1/DillonEdwards1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
